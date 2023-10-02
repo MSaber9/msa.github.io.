@@ -1,7 +1,7 @@
 # Data Scientist, PhD Student
 
 #### Python, Sklearn, Keras, TensorFlow, PyTorch, Java SE, SQL, IBM Cognos Analytics, ERD, UML, OOAD, Tableau, Oracle ADF
-
+ 
 ## Education
 - Ph.D., Computer Science | ITMO University (_Present_)								       		
 - M.S., Machine Learning | ITMO University (_Jun 2021_)

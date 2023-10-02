@@ -19,8 +19,6 @@
 **Senior Data Scientist @ B.Tech (_Nov 2021 - Jul 2022_)**
 - Collaborated with the MIT Institute for Data, Systems, and Society (IDSS) to build a dynamic pricing model by using CatBoost, Isotonic regression, k-means, and PuLP and Gurobi optimization.
 
-
-
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)

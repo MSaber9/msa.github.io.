@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Python, Sklearn, Keras, TensorFlow, PyTorch, Java SE, SQL, IBM Cognos Analytics, ERD, UML, OOAD, Tableau, Oracle ADF
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		

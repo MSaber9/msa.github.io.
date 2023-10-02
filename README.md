@@ -16,6 +16,11 @@
 **ML Researcher @ LUT University (_Jul 2021 - Dec 2022_)**
 - Work with Dr. Pedro on research applications of machine learning in cybersecurity for the Internet of Vehicles and Things
 
+**Senior Data Scientist @ B.Tech (_Nov 2021 - Jul 2022_)**
+- Collaborated with the MIT Institute for Data, Systems, and Society (IDSS) to build a dynamic pricing model by using CatBoost, Isotonic regression, k-means, and PuLP and Gurobi optimization.
+
+
+
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)

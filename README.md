@@ -3,9 +3,10 @@
 #### Python, Sklearn, Keras, TensorFlow, PyTorch, Java SE, SQL, IBM Cognos Analytics, ERD, UML, OOAD, Tableau, Oracle ADF
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Computer Science       | ITMO National Research University (_Present_)								       		
+- M.S., Machine Learning	      | ITMO National Research University (_Jun 2021_)
+- PG Diploma, Computer Science  | Cairo University - Egypt (_Jun 2016_)
+- B.S., Accounting              | Ain Shams University - Egypt (_Jul 2008_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**

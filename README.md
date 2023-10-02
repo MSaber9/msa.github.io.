@@ -3,10 +3,10 @@
 #### Python, Sklearn, Keras, TensorFlow, PyTorch, Java SE, SQL, IBM Cognos Analytics, ERD, UML, OOAD, Tableau, Oracle ADF
 
 ## Education
-- Ph.D., Computer Science       | ITMO National Research University (_Present_)								       		
-- M.S., Machine Learning	      | ITMO National Research University (_Jun 2021_)
-- PG Diploma, Computer Science  | Cairo University - Egypt (_Jun 2016_)
-- B.S., Accounting              | Ain Shams University - Egypt (_Jul 2008_)
+- Ph.D., Computer Science | ITMO University - Russia (_Present_)								       		
+- M.S., Machine Learning | ITMO University - Russia (_Jun 2021_)
+- PG Diploma, Computer Science | Cairo University - Egypt (_Jun 2016_)
+- B.S., Accounting | Ain Shams University - Egypt (_Jul 2008_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**

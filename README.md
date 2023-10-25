@@ -35,18 +35,15 @@
 **Software System Analyst @ eDigits, Egypt (_Oct 2015 - Jan 2017 _)**
 - Design the full lifecycle of software starting with business requirements and analysis to design ERD, UML, OOAD and coding in many projects and sectors.
 
-    
 **Oracle Web Application Intern @ Ministry of Communications and Information Technology, Egypt (_Nov 2013 - Sep 2014_)**
 - Training on data modeling, relational database design, Java SE, Java EE 7, Oracle DB SQL, JS, jQuery, CSS, Oracle ADF, BEA WebLogic Server 10.
 
 ## Summer School
 **OxML Summer School, Oxford University, Remotely, 2023**
 - Coursework: Machine Learning in Finance and NLP
-
 **Qiskit Summer School, IBM, Remotely, 2021**
 - Coursework: Quantum Machine learning
 - Focuses on developing hands-on experience and understanding of QML.
-
 **Quantum Computing Summer Camps, IBM, Remotely, 2021**
 - Coursework: Quantum Information Science and Engineering
 - Eight-Month Intensive Online Quantum Computing Class

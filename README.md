@@ -5,7 +5,7 @@
 ## Education
 - Ph.D., Computer Science | ITMO University (_Present_)								       		
 - M.S., Machine Learning | ITMO University (_Jun 2021_)
-- PG.Diploma, Computer Science | Cairo University (_Jun 2016_)
+- PG.Diploma, Computer Science | Cairo University (_Jun 2016_) 
 
 ## Work Experience
 **PhD Researcher @ ITMO University (_Sep 2022 - Present_)**

@@ -6,7 +6,6 @@
 - Ph.D., Computer Science | ITMO University (_Present_)								       		
 - M.S., Machine Learning | ITMO University (_Jun 2021_)
 - PG.Diploma, Computer Science | Cairo University (_Jun 2016_)
-- B.S., Accounting | Ain Shams University (_Jul 2008_)
 
 ## Work Experience
 **PhD Researcher @ ITMO University (_Sep 2022 - Present_)**
@@ -18,40 +17,51 @@
 **Senior Data Scientist @ B.Tech (_Nov 2021 - Jul 2022_)**
 - Collaborated with the MIT Institute for Data, Systems, and Society (IDSS) to build a dynamic pricing model by using CatBoost, Isotonic regression, k-means, and PuLP and Gurobi optimization.
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**ML Intern @ Acronis, Russia (_Feb 2019 - Jul 201_)**
+- Research in monitoring IT infrastructure and to develop algorithms that enable predicting and issuing recommendations for working with IT infrastructure.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**Big Data Science Intern @ Acronis, Russia (_Feb 2019 - Jul 201_)**
+- Research in monitoring IT infrastructure and to develop algorithms that enable predicting and issuing recommendations for working with IT infrastructure.
+  
+**Big Data Science Intern @ National Telecommunication Institute, Egypt (_Sep 2018 - Dec 2018_)**
+- Training on ML by python and R language and managing big data in cloud technology. build stock prices prediction project with spark ML.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+**Summer Internship @ IBM, Egypt (_Sep 2018 - Dec 2018_)**
+- Training on IBM Blockchain, IBM Cognos Analytics, and IBM BPM Developer.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+**Software System Analyst @ eDigits, Egypt (_Oct 2015 - Jan 2017 _)**
+- Design the full lifecycle of software starting with business requirements and analysis to design ERD, UML, OOAD and coding in many projects and sectors.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+**Software System Analyst @ eDigits, Egypt (_Oct 2015 - Jan 2017 _)**
+- Design the full lifecycle of software starting with business requirements and analysis to design ERD, UML, OOAD and coding in many projects and sectors.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+    
+**Oracle Web Application Intern @ Ministry of Communications and Information Technology, Egypt (_Nov 2013 - Sep 2014_)**
+- Training on data modeling, relational database design, Java SE, Java EE 7, Oracle DB SQL, JS, jQuery, CSS, Oracle ADF, BEA WebLogic Server 10.
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+## Summer School
+**OxML Summer School, Oxford University, Remotely, 2023**
+- Coursework: Machine Learning in Finance and NLP
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+**Qiskit Summer School, IBM, Remotely, 2021**
+- Coursework: Quantum Machine learning
+- Focuses on developing hands-on experience and understanding of QML.
+
+**Quantum Computing Summer Camps, IBM, Remotely, 2021**
+- Coursework: Quantum Information Science and Engineering
+- Eight-Month Intensive Online Quantum Computing Class
+
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+1. M. Selim, M. Saber, A. Beattie, A. Narayanan, (Member IEEE), S. Sahoo, (Member IEEE), and P. Nardelli (Senior Member IEEE), Intrusion Detection System for Cyberattacks in the Internet of Vehicles Environment, published in the Elsevier Ad Hoc Networks journal.
+2. M. Saber, M. Selim, A. Beattie, A. Narayanan, (Member IEEE), S. Sahoo, (Member IEEE), and P. Nardelli (Senior Member IEEE), Transfer learning and optimized CNN based Intrusion detection system for UAV (In Progress)
 
-- [Data Science Blog](https://medium.com/@shawhin)
+## PROJECTS
+- IoT-IDS: Network traffic analysis and cyberattack detection using ML and DL algorithms in IoT cybersecurity by AE, VAE, DyNet, and SemiAE algorithms.
+- EdgeCV for IoT: Build and optimize CV models on the edge by reducing inference time and sent information through MQTT and analyze model. performance.
+- SMBO Optimizer: Use the Gaussian processes and random forest as a surrogate function. Use random search as a baseline method.
+- VehiclesCls: Build the CNN for vehicles images recognition for 3 classes of objects to recognize: personal transport, ambulance, police cars.
+- RetinaNet Image Detection: Build the deep neural network for pollen images detection for 11 classes of anonymous objects to detect and recognize.
+- ENet Semantic Segmentation: Build the deep neural network for road image semantic segmentation for 13 classes of objects to recognize.
+- Stock Price Prediction by Algorithms Trading: Build a stock price forecasting model based on ARIMA Model, Additive Model, Quandl, Fbprophet, Pytrends, and Pystan.
+- Quantum Process Tomography with Only Shot Noise: Used the Process Tomography Circuits function built into Qiskit, created the set of circuits to do quantum process tomography and simulation with a Qasm simulator.

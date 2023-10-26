@@ -41,9 +41,11 @@
 ## Summer School
 **OxML Summer School, Oxford University, Remotely, 2023**
 - Coursework: Machine Learning in Finance and NLP
+  
 **Qiskit Summer School, IBM, Remotely, 2021**
 - Coursework: Quantum Machine learning
 - Focuses on developing hands-on experience and understanding of QML.
+  
 **Quantum Computing Summer Camps, IBM, Remotely, 2021**
 - Coursework: Quantum Information Science and Engineering
 - Eight-Month Intensive Online Quantum Computing Class

@@ -1,6 +1,6 @@
 # Data Scientist, PhD Student 
 
-#### Python, Sklearn, Keras, TensorFlow, PyTorch, Java SE, SQL, IBM Cognos Analytics, ERD, UML, OOAD, Tableau, Oracle ADF.
+#### Python, Sklearn, Keras, TensorFlow, PyTorch, Java SE, SQL, IBM Cognos Analytics, ERD, UML, OOAD, Tableau, Oracle ADF
  
 ## Education
 - Ph.D., Computer Science | ITMO University (_Present_)								       		
@@ -56,7 +56,7 @@
 
 > This paper introduces a novel intrusion detection framework for cyberattacks on Internet of Vehicles (IoV). It proposes a machine learning-based system that detects abnormal behavior by analyzing network traffic. The framework includes steps such as data preprocessing with Z-score normalization, feature selection using regression, and model selection and training with hyperparameter optimization. The effectiveness of the solution is demonstrated through extensive experiments using well-known standard datasets (CIC-IDS-2017, CSE-CIC-IDS-2018, and CIC-DDoS-2019), both individually and merged. The results showcase high accuracy above 99.8% within a short detection time, surpassing existing methods in the literature.
 
-2. M. Saber, M. Selim, A. Beattie, A. Narayanan, (Member IEEE), S. Sahoo, (Member IEEE), and P. Nardelli (Senior Member IEEE), Transfer learning and optimized CNN based Intrusion detection system for UAV (In Progress)
+2. M. Saber, M. Selim, A. Beattie, A. Narayanan, (Member IEEE), S. Sahoo, (Member IEEE), and P. Nardelli (Senior Member IEEE), Transfer learning and optimized CNN based Intrusion detection system for UAV (In Progress).
 
 ## PROJECTS
 - IoT-IDS: Network traffic analysis and cyberattack detection using ML and DL algorithms in IoT cybersecurity by AE, VAE, DyNet, and SemiAE algorithms.

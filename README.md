@@ -69,8 +69,6 @@ The operations of unmanned aerial vehicles (UAVs) are susceptible to cybersecuri
   <img src="/assets/gps.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
-![GPS](/assets/gps.JPG)
-
 
 ## PROJECTS
 - IoT-IDS: Network traffic analysis and cyberattack detection using ML and DL algorithms in IoT cybersecurity by AE, VAE, DyNet, and SemiAE algorithms.

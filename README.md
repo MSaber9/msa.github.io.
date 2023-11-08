@@ -68,7 +68,7 @@ The operations of unmanned aerial vehicles (UAVs) are susceptible to cybersecuri
 ![GPS](https://github.com/msaberai/portfolio/assets/24740077/2b39369a-44de-4013-b6cc-8e6922839905)
 
 <p align="center">
-  <img src="[https://github.com/msaberai/portfolio/assets/24740077/2b39369a-44de-4013-b6cc-8e6922839905]" />
+  <img src="https://github.com/msaberai/portfolio/assets/24740077/2b39369a-44de-4013-b6cc-8e6922839905?raw=true" alt="Sublime's custom image"/>
 </p>
 
 

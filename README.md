@@ -4,8 +4,8 @@
  
 ## Education
 - Ph.D., Computer Science | ITMO University (_Present_).								       		
-- M.S., Machine Learning | ITMO University (_Jun 2021_)
-- PG.Diploma, Computer Science | Cairo University (_Jun 2016_) 
+- M.S., Machine Learning | ITMO University (_Jun 2021_).
+- PG.Diploma, Computer Science | Cairo University (_Jun 2016_).
 
 ## Work Experience
 **PhD Researcher @ ITMO University (_Sep 2022 - Present_)**
@@ -65,11 +65,7 @@ This paper introduces a novel intrusion detection framework for cyberattacks on 
 
 The operations of unmanned aerial vehicles (UAVs) are susceptible to cybersecurity risks, especially because of their strong reliance on the Global Positioning System (GPS) and radio frequency (RF) sensors. GPS and RF sensors are vulnerable to potential threats such as spoofing attacks that can cause the UAVs to behave erratically. Since these threats are widespread and potent, it is imperative to develop effective anomaly detection systems. In this paper, we present a deep learning-based methodology for detecting GPS spoofing cyberattacks. We combine convolutional neural networks with transfer learning to design a method that is fast, accurate, and general. The effectiveness of the proposed solution is demonstrated by extensive numerical experiments carried out using benchmark datasets. We achieved an accuracy of 100% within a running time of 1474.2 s and a detection time of 9.5 s in the case of the training dataset. Further, using this trained model, we achieved an accuracy of 98.93% within a detection time of 57.54 s on an unseen dataset that was unrelated to the one used for training the model. Our results demonstrate that the proposed anomaly detection method outperforms the existing solutions while providing a general model for detecting cyberattacks included in unseen datasets.
 
-<p align="center">
-  <img src="/assets/gps.JPG?raw=true" alt="Sublime's custom image"/>
-</p>
-
-![Proposed IDS framework](/assets/gps.JPG) 
+![GPS](/assets/gps.JPG) 
 
 
 ## PROJECTS

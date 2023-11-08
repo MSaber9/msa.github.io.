@@ -58,8 +58,6 @@
 
 This paper introduces a novel intrusion detection framework for cyberattacks on Internet of Vehicles (IoV). It proposes a machine learning-based system that detects abnormal behavior by analyzing network traffic. The framework includes steps such as data preprocessing with Z-score normalization, feature selection using regression, and model selection and training with hyperparameter optimization. The effectiveness of the solution is demonstrated through extensive experiments using well-known standard datasets (CIC-IDS-2017, CSE-CIC-IDS-2018, and CIC-DDoS-2019), both individually and merged. The results showcase high accuracy above 99.8% within a short detection time, surpassing existing methods in the literature.
 
-![Proposed IDS framework](https://github.com/msaberai/portfolio/assets/24740077/ef4dd8cd-52b1-4f3f-bec5-9af93036255e)
-
 ![Proposed IDS framework](/assets/ids.JPG) 
 
 
@@ -68,8 +66,10 @@ This paper introduces a novel intrusion detection framework for cyberattacks on 
 The operations of unmanned aerial vehicles (UAVs) are susceptible to cybersecurity risks, especially because of their strong reliance on the Global Positioning System (GPS) and radio frequency (RF) sensors. GPS and RF sensors are vulnerable to potential threats such as spoofing attacks that can cause the UAVs to behave erratically. Since these threats are widespread and potent, it is imperative to develop effective anomaly detection systems. In this paper, we present a deep learning-based methodology for detecting GPS spoofing cyberattacks. We combine convolutional neural networks with transfer learning to design a method that is fast, accurate, and general. The effectiveness of the proposed solution is demonstrated by extensive numerical experiments carried out using benchmark datasets. We achieved an accuracy of 100% within a running time of 1474.2 s and a detection time of 9.5 s in the case of the training dataset. Further, using this trained model, we achieved an accuracy of 98.93% within a detection time of 57.54 s on an unseen dataset that was unrelated to the one used for training the model. Our results demonstrate that the proposed anomaly detection method outperforms the existing solutions while providing a general model for detecting cyberattacks included in unseen datasets.
 
 <p align="center">
-  <img src="https://github.com/msaberai/portfolio/assets/24740077/2b39369a-44de-4013-b6cc-8e6922839905?raw=true" alt="Sublime's custom image"/>
+  <img src="/assets/ids.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
+
+![GPS](/assets/ids.JPG)
 
 
 ## PROJECTS

@@ -52,13 +52,15 @@
 
 
 ## Publications
-- M. Selim, M. Saber, A. Beattie, A. Narayanan, (Member IEEE), S. Sahoo, (Member IEEE), and P. Nardelli (Senior Member IEEE), Intrusion Detection System for Cyberattacks in the Internet of Vehicles Environment, published in the Elsevier Ad Hoc Networks journal. [click here](https://www.sciencedirect.com/science/article/pii/S1570870523002500)
+#### M. Selim, M. Saber, A. Beattie, A. Narayanan, (Member IEEE), S. Sahoo, (Member IEEE), and P. Nardelli (Senior Member IEEE), Intrusion Detection System for Cyberattacks in the Internet of Vehicles Environment, published in the Elsevier Ad Hoc Networks journal.
 
->> This paper introduces a novel intrusion detection framework for cyberattacks on Internet of Vehicles (IoV). It proposes a machine learning-based system that detects abnormal behavior by analyzing network traffic. The framework includes steps such as data preprocessing with Z-score normalization, feature selection using regression, and model selection and training with hyperparameter optimization. The effectiveness of the solution is demonstrated through extensive experiments using well-known standard datasets (CIC-IDS-2017, CSE-CIC-IDS-2018, and CIC-DDoS-2019), both individually and merged. The results showcase high accuracy above 99.8% within a short detection time, surpassing existing methods in the literature.
+[Publication]([https://www.mdpi.com/1424-8220/22/8/3048](https://www.sciencedirect.com/science/article/pii/S1570870523002500))
 
+This paper introduces a novel intrusion detection framework for cyberattacks on Internet of Vehicles (IoV). It proposes a machine learning-based system that detects abnormal behavior by analyzing network traffic. The framework includes steps such as data preprocessing with Z-score normalization, feature selection using regression, and model selection and training with hyperparameter optimization. The effectiveness of the solution is demonstrated through extensive experiments using well-known standard datasets (CIC-IDS-2017, CSE-CIC-IDS-2018, and CIC-DDoS-2019), both individually and merged. The results showcase high accuracy above 99.8% within a short detection time, surpassing existing methods in the literature.
 
+![Proposed IDS framework](/Proposed IDS framework.jpg)
 
-- M. Saber, M. Selim, A. Beattie, A. Narayanan, (Member IEEE), S. Sahoo, (Member IEEE), and P. Nardelli (Senior Member IEEE), Transfer learning and optimized CNN based Intrusion detection system for UAV (In Progress).
+#### M. Saber, M. Selim, A. Beattie, A. Narayanan, (Member IEEE), S. Sahoo, (Member IEEE), and P. Nardelli (Senior Member IEEE), Transfer learning and optimized CNN based Intrusion detection system for UAV (In Progress).
 
 ## PROJECTS
 - IoT-IDS: Network traffic analysis and cyberattack detection using ML and DL algorithms in IoT cybersecurity by AE, VAE, DyNet, and SemiAE algorithms.

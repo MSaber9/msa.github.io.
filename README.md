@@ -60,7 +60,7 @@ This paper introduces a novel intrusion detection framework for cyberattacks on 
 
 ![Proposed IDS framework](https://github.com/msaberai/portfolio/assets/24740077/ef4dd8cd-52b1-4f3f-bec5-9af93036255e)
 
-![Proposed IDS framework](/assets/Proposed IDS framework.jpg) 
+![Proposed IDS framework](/assets/ids.JPG) 
 
 
 #### M. Saber, M. Selim, A. Beattie, A. Narayanan, (Member IEEE), S. Sahoo, (Member IEEE), and P. Nardelli (Senior Member IEEE), Transfer learning and optimized CNN based Intrusion detection system for UAV (In Progress).

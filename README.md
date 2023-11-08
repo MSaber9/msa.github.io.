@@ -69,7 +69,7 @@ The operations of unmanned aerial vehicles (UAVs) are susceptible to cybersecuri
   <img src="/assets/ids.JPG?raw=true" alt="Sublime's custom image"/>
 </p>
 
-![GPS](/assets/ids.JPG)
+![GPS](/assets/gps.JPG)
 
 
 ## PROJECTS

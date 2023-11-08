@@ -59,7 +59,8 @@
 
 This paper introduces a novel intrusion detection framework for cyberattacks on Internet of Vehicles (IoV). It proposes a machine learning-based system that detects abnormal behavior by analyzing network traffic. The framework includes steps such as data preprocessing with Z-score normalization, feature selection using regression, and model selection and training with hyperparameter optimization. The effectiveness of the solution is demonstrated through extensive experiments using well-known standard datasets (CIC-IDS-2017, CSE-CIC-IDS-2018, and CIC-DDoS-2019), both individually and merged. The results showcase high accuracy above 99.8% within a short detection time, surpassing existing methods in the literature.
 
-![Proposed IDS framework]([/Proposed IDS framework.jpg](https://github.com/msaberai/portfolio/blob/main/Proposed%20IDS%20framework.JPG))
+![Proposed IDS framework](https://github.com/msaberai/portfolio/assets/24740077/ef4dd8cd-52b1-4f3f-bec5-9af93036255e)
+
 
 #### M. Saber, M. Selim, A. Beattie, A. Narayanan, (Member IEEE), S. Sahoo, (Member IEEE), and P. Nardelli (Senior Member IEEE), Transfer learning and optimized CNN based Intrusion detection system for UAV (In Progress).
 

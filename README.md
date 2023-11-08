@@ -68,7 +68,7 @@ The operations of unmanned aerial vehicles (UAVs) are susceptible to cybersecuri
 ![GPS](/assets/gps.JPG) 
 
 
-## PROJECTS
+## PROJECTS 
 - IoT-IDS: Network traffic analysis and cyberattack detection using ML and DL algorithms in IoT cybersecurity by AE, VAE, DyNet, and SemiAE algorithms.
 - EdgeCV for IoT: Build and optimize CV models on the edge by reducing inference time and sent information through MQTT and analyze model. performance.
 - SMBO Optimizer: Use the Gaussian processes and random forest as a surrogate function. Use random search as a baseline method.

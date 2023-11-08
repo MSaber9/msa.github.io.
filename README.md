@@ -3,7 +3,7 @@
 #### Python, Sklearn, Keras, TensorFlow, PyTorch, Java SE, SQL, IBM Cognos Analytics, ERD, UML, OOAD, Tableau, Oracle ADF
  
 ## Education
-- Ph.D., Computer Science | ITMO University (_Present_)								       		
+- Ph.D., Computer Science | ITMO University (_Present_).								       		
 - M.S., Machine Learning | ITMO University (_Jun 2021_)
 - PG.Diploma, Computer Science | Cairo University (_Jun 2016_) 
 

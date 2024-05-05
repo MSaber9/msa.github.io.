@@ -14,7 +14,7 @@
 **ML Researcher @ LUT University (_Jul 2021 - Dec 2022_)**
 - Work with Dr. Pedro on research applications of machine learning in cybersecurity for the Internet of Vehicles and Things
 
-**Senior Data Scientist @ B.Tech (_Nov 2021 - Jul 2022_)**
+**Senior Data Scientist @ B.Tech (_Nov 2021 - Oct 2022_)**
 - Collaborated with the MIT Institute for Data, Systems, and Society (IDSS) to build a dynamic pricing model by using CatBoost, Isotonic regression, k-means, and PuLP and Gurobi optimization.
 
 **ML Intern @ Acronis, Russia (_Feb 2019 - Jul 201_)**

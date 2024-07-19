@@ -65,9 +65,7 @@ This paper presents a novel framework for intrusion detection specially designed
 
 [LINK](https://www.sciencedirect.com/science/article/pii/S1570870524002087)
 
-<p align="right">
-  <img src="/assets/gps.JPG" />
-</p>
+<img src="/assets/gps.JPG" align="right"/>
 
 The operations of unmanned aerial vehicles (UAVs) are susceptible to cybersecurity risks, mainly because of their firm reliance on the Global Positioning System (GPS) and radio frequency (RF) sensors. GPS and RF sensors are vulnerable to potential threats, such as spoofing attacks that can cause the UAVs to behave erratically. Since these threats are widespread and potent, it is imperative to develop effective intrusion detection systems. In this paper, we propose an image-based intrusion detection system for detecting GPS spoofing cyberattacks based on a deep learning methodology. We combine convolutional neural networks with Principal Component Analysis (PCA) to reduce the dimensionality of the dataset features, data augmentation to increase the size and diversity of the training dataset, and transfer learning to improve the proposed model’s performance with limited data to design a fast, accurate, and general method. Extensive numerical experiments demonstrate the effectiveness of the proposed solution carried out using benchmark datasets. We achieved an accuracy of 100% within a running time of 120.64 s at 0.3529 ms latency and a detection time of 2.035 s in the case of the training dataset. Further, using this trained model, we achieved an accuracy of 99.25% within a detection time of 2.721 s on an unseen dataset that was unrelated to the one used for training the model. In contrast, other models, such as Inception-v3, showed lower accuracy on unseen datasets. However, Inception-v3 performance improved significantly after Bayesian optimization, with the Tree-structured Parzen Estimator reaching 99.06% accuracy. Our results demonstrate that the proposed image-based intrusion detection method outperforms the existing solutions while providing a general model for detecting cyberattacks included in unseen datasets. 
 
